@@ -56,4 +56,4 @@
 
 - Coded by CirqueiraDev
 - **Discord: Cirqueira**
-- <a href="https://www.instagram.com/cirqueirax/">Instagram</a>
+- <a href="https://www.instagram.com/sirkeirax/">Instagram</a>

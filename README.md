@@ -52,6 +52,9 @@
 
 ---
 
+# Remember!
+These tools collect sensitive data and can be abused. Use this repository ONLY for legitimate security research, authorized auditing, or educational study. Do NOT use for activities that violate privacy or the law.
+
 ### Credits:
 
 - Coded by CirqueiraDev
